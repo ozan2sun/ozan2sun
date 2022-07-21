@@ -2,7 +2,7 @@
 
 - 💻 I am graduated from [Istanbul Technical University](https://www.itu.edu.tr), Türkiye. Apart from that I am Jr. Full Stack developer that loves reading articles and learning to new concepts.
 
-- ⚡ Making and listening music is an indispensable passion for me. My favorite band is 
+- ⚡ Making and listening music is an indispensable passion for me. My favorite band is still Metallica, a bit Bon Jovi, maybe Queen
 
 **My Reseach Interest**:
 - Supporting development efforts from project conceptualization to launch
