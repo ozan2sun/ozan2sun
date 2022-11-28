@@ -10,7 +10,7 @@
 - Designing front end interfaces and user experiences
 - Conducting database and server administration
 - Fine-tuning projects following user feedback
-- Collaborating with other developers, UX designers, sales, and leadership to improve and execute projects 
+
 
 <!--
 **ozan2sun/ozan2sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
